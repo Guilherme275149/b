@@ -311,7 +311,7 @@ const help = () => {
 ║215 *${prefix}cpfg* [bot gera cpf]
 ║216 *${prefix}bcep (cep)* [consulta cep]
 ║
-╠══✪〘 APIS DO DARK 〙✪══
+╠══✪〘 APIS DO MINATO 〙✪══
 ║
 ║ *Aguarde a próxima att*
 ║
