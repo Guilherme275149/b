@@ -681,9 +681,9 @@ const get = require('got')
 			reply("teu pai")
 	}
 	
-		if (messagesC.includes("kkkkkk")){
+		if (messagesC.includes("bom dia")){
 			client.updatePresence(from, Presence.composing)
-			reply("kskskskk")
+			reply("bom dia o krlho vtmnc")
 	}
 	
 			if (messagesC.includes("lixo")){
