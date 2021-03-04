@@ -4,9 +4,9 @@ const help = () => {
 ║
 ╠OLA 
 ║
-╠➥ MINATO 𝐁𝐎𝐓
+╠➥ MINATO ☔
 ╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗MINATO  ☔
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗MINATO  ☔ [DONO DA BASE DARK] 
 ╠➥ *wa.me/+5511934488829*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
@@ -350,7 +350,8 @@ const help = () => {
 ║ *WPP: wa.me/+5511934488829*
 ║ *YOUTUBE: https://youtu.be/J5Zq7DLbWYE*
 ║
-║  *"CHAMA MEU DONO QUER NOVAS AMIZADE 🐊🚩*
+║  *"DONO DA BASE DARK LINK DO CANAL DELE LOGO EM BAIXO🐊🚩*
+https://youtu.be/KuTVeixcbcQ
 ║  *"PEITA OU RESPEITA"*
 ║
 ║ *${prefix}dono1* para mais info
